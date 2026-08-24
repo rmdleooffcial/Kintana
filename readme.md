@@ -1,91 +1,71 @@
-⚡ KINTANA PROJECT
+KINTANA PROJECT
+
+«Build. Deploy. Scale.»
 
 <p align="center">
-  <img src="https://img.shields.io/badge/KINTANA-PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/DEVELOPER-HEYSaka-black?style=for-the-badge&logo=code" />
-  <img src="https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=for-the-badge&logo=github&label=STARS" />
-</p><p align="center">
-  <b>🚀 Developer • Hosting • Automation • Digital Project</b>
+  <img src="https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=for-the-badge&logo=github&label=STARS">
+  <img src="https://img.shields.io/badge/KINTANA-PROJECT-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DEVELOPER-HEYSaka-111111?style=for-the-badge">
 </p>---
 
-🌟 About Kintana
+ABOUT
 
-Kintana Project adalah project yang dikembangkan untuk menghadirkan berbagai solusi digital, mulai dari development, hosting, automation, bot, hingga tools developer.
+Kintana Project is a developer-focused ecosystem built around
+hosting, automation, infrastructure, and digital solutions.
 
-«⚡ Build fast.
-🛠️ Code smart.
-🚀 Deploy everywhere.»
+Designed to be simple, reliable, and continuously evolving.
 
----
+KINTANA PROJECT
 
-💫 Features
-
-- 🖥️ Hosting & Server
-- 🤖 Bot & Automation
-- 💻 Developer Tools
-- ⚡ Fast Deployment
-- 🔧 Easy Configuration
-- 📦 Modular Project
-- 🔄 Continuous Updates
+Development
+Hosting
+Automation
+Infrastructure
+Digital Tools
 
 ---
 
-⭐ Support Kintana
+STACK
 
-Kalau project ini membantu atau menurut kamu keren, jangan lupa kasih ⭐ Star di repository ini.
-
-<p align="center">⭐ STAR THIS REPOSITORY ⭐
-
-Your star = motivation to keep building 🚀
-
-</p>---
-
-🧑‍💻 Developer
-
-<p align="center">KINTANA PROJECT
-
-Developed with ❤️ by HeySaka
-
-"Developer • Builder • Creator"
-
-</p>---
-
-🌐 Project Ecosystem
-
-╭──────────────────────────────╮
-│       ⚡ KINTANA PROJECT      │
-├──────────────────────────────┤
-│                              │
-│  💻 Development              │
-│  🖥️ Hosting                  │
-│  🤖 Automation               │
-│  ⚙️ Tools                    │
-│  🚀 Deployment               │
-│                              │
-╰──────────────────────────────╯
+LANGUAGE     JavaScript / Node.js
+RUNTIME      Node.js
+HOSTING      VPS / Cloud
+DATABASE     JSON / API
+DEVELOPMENT  Kintana Project
 
 ---
 
-📊 Project Status
+STATUS
 
-"Status" (https://img.shields.io/badge/STATUS-ACTIVE-00ff88?style=for-the-badge)
-"Version" (https://img.shields.io/badge/VERSION-3.x-blue?style=for-the-badge)
-"Developer" (https://img.shields.io/badge/MADE_BY-HEYSaka-purple?style=for-the-badge)
-
----
-
-📜 License
-
-Project ini dibuat untuk keperluan development dan pembelajaran.
-
-Gunakan project dengan bijak dan hormati lisensi serta hak pembuatnya.
+SYSTEM       ONLINE
+PROJECT      ACTIVE
+DEVELOPMENT  CONTINUOUS
+VERSION      3.x
 
 ---
 
-<p align="center">⚡ KINTANA PROJECT
+SUPPORT
 
-"One Project. Unlimited Possibilities."
+If you find this project useful, consider giving
+the repository a star.
 
-⭐ Don't forget to star the repository! ⭐
+Every star supports the continued development of Kintana Project.
 
-</p>
+---
+
+DEVELOPER
+
+HeySaka
+
+Developer and creator of Kintana Project.
+
+KINTANA PROJECT
+Build. Deploy. Scale.
+
+---
+
+LICENSE
+
+This project is provided for development and educational purposes.
+
+Copyright 2026 Kintana Project.
